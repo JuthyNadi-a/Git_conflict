@@ -8,3 +8,6 @@ Decide if you want to keep only your branch's changes, keep only the other branc
 step 3: git add .
 step 4: git commit
 -->
+
+new changes to branch
+Changes in branch
