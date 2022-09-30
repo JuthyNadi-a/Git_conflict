@@ -12,3 +12,4 @@ step 4: git commit
 new changes to branch
 Changes in branch
 Checking changes to branch
+Again checking changes
